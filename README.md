@@ -1,16 +1,16 @@
-## 🧠 Artificial Intelligence & Machine Learning LAB(18CSL76) 🧠
+# 🧠 Artificial Intelligence & Machine Learning LAB(18CSL76) 🧠
 
-#  💡 Installation or Online IDE 💡
+##  💡 Installation or Online IDE 💡
     1.Login in to Your gmail in desktop
     2.open the below link to execute the program
     3.Link:~ https://research.google.com/colaboratory/
-# ----------------------- OR -----------------------
+## ----------------------- OR -----------------------
 
-  # windows 
+  ## windows 
     1.Download the python from the given below link
     2.Link:~ https://www.python.org/downloads/
     
-  # Ubuntu
+  ## Ubuntu
     1. Follow the Below commands:
     2.sudo apt-get update
     3.sudo apt-get install python3.9
@@ -18,7 +18,7 @@
     5.For installing additonal packages pip install package_name  
     6.For example:~ pip install pandas
     
-# Syllabus 📑
+## Syllabus 📑
     1.Implement A* Search algorithm. 
     
     2.Implement AO* Search algorithm.
