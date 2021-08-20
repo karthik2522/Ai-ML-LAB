@@ -1,4 +1,4 @@
-# 🧠 Artificial Intelligence & Machine Learning LAB(18CSL76) 🧠
+## 🧠 Artificial Intelligence & Machine Learning LAB(18CSL76) 🧠
 
 ##  💡 Installation or Online IDE 💡
     1.Login in to Your gmail in desktop
@@ -9,6 +9,7 @@
   ## windows 
     1.Download the python from the given below link
     2.Link:~ https://www.python.org/downloads/
+    
     
   ## Ubuntu
     1. Follow the Below commands:
