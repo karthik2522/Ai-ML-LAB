@@ -9,7 +9,7 @@
   ## windows 
     1.Download the python from the given below link
     2.Link:~ https://www.python.org/downloads/
-    
+    3.Anaconda:~ https://www.anaconda.com/products/individual
     
   ## Ubuntu
     1. Follow the Below commands:
