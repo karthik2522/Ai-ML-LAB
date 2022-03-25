@@ -20,6 +20,7 @@
     6.For example:~ pip install pandas
     
 ## Syllabus 📑
+## Note: program 4 that is renamed as id3.py
     1.Implement A* Search algorithm. 
     
     2.Implement AO* Search algorithm.
